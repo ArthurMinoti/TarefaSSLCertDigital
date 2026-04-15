@@ -1,0 +1,5 @@
+O openssl é uma biblioteca que fornece ferramentas para imlementar portocolos de criptografia.
+É um software livre e de código aberto que impleneta o SSL (Secure Sockets Layer) e TLS (Transport Layer Security)
+
+Ele pode ser utilizado para várias funções, como gerar certificados, criptografar arquivos, gerar chaves
+de criptografia simétrica e assimétrica, entre outras funções.
