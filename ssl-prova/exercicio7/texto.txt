@@ -1,0 +1,1 @@
+Esse erro ocorre pois o http.server é apenas um servido http e não suporta https. Para isso precisamos de uma script para usar o certificado.
