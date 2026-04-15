@@ -1,0 +1,5 @@
+Esse comando cria um certificado digital auto assinado a partir da solicitação CSR criada.
+
+Utiliza a chave aluno.key como assinatura
+O certificado é válido por 365 dias
+salva o certificado como aluno.crt
