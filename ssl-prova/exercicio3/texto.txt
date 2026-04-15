@@ -1,0 +1,2 @@
+Uma chave privada é a chave que fica sobre posse do usuário e é secreta, ou seja somente ele pode saber.
+Caso ela seja descoberta por outro usuário há uma quebra na segurança da criptografia
