@@ -1,0 +1,3 @@
+CSR é um Certificate Signing Request, que contém uma solicitação para uma autoridade certificadora (CA) emitir uma certificado digital para o usuário configurado
+
+Um CSR contém todos os dados pessoais de uma pessoa para uma CA emitir uma assinatura digital.
