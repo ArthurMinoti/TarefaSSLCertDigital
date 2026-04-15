@@ -1,0 +1,3 @@
+No script estou criando um servidor https que irá utilizar o certificado que criamos.
+
+No site abri o certificado, que é inseguro pois é auto assinado, e exibi o conteúdo dele.
